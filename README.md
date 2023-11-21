@@ -5,14 +5,14 @@ There will be two characters which are Stickman, the main character, and Stuart,
 assistant. This animation is about a daily morning routine from Stickman before he heads to 
 work.
 
-Scene 1 (00:00 - 00:08) (8 seconds) 
+**Scene 1 (00:00 - 00:08) (8 seconds) **
 Description: 
 The word “Windows” is moving up and down continuously within the computer screen.
 
 
 ![image](https://github.com/KirstenC2/cpp_graphic_mini_story/assets/89898288/e52e6f94-d64f-4aa8-9ea1-3d7cf462e64a)
 
-Scene 2 (00:08 - 00:11) (4 seconds) 
+**Scene 2 (00:08 - 00:11) (4 seconds) **
 Description:
 When the alarm rang at 08:00, it rang. The line above the clock blinks to illustrate the alarm 
 is ringing. 
@@ -21,7 +21,7 @@ is ringing.
 ![image](https://github.com/KirstenC2/cpp_graphic_mini_story/assets/89898288/8ca2605f-5842-404b-9e9c-398903611593)
 
 
-Scene 3 (00:11 - 00:22) (11 seconds) 
+**Scene 3 (00:11 - 00:22) (11 seconds) **
 Description: 
 The Stickman is awake. He opens his eyes and looks around.
 
@@ -39,7 +39,7 @@ prepare himself to work.
 
 
 
-Scene 5 (00:44 - 00:51) (7 seconds) 
+**Scene 5 (00:44 - 00:51) (7 seconds) **
 Description: 
 Stickman gets off the bed and gets out of the room to the dining area. 
 
