@@ -1,0 +1,1 @@
+# cpp_graphic_mini_story
